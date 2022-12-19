@@ -13,7 +13,7 @@
 ## Python!
 
 ### Games
-- Guess the number (gui) 
+- [Guess the number (gui)](/python/games/guess.py)
 
 <br>
 
